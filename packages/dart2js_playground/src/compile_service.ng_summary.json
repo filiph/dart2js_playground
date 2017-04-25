@@ -30,33 +30,34 @@
         ]
       }
     ],
-    "6": "compile_service.dart",
-    "7": [
-      {
-        "1": "package:angular2/angular2.template.dart",
-        "4": "i0"
-      }
-    ]
+    "6": "compile_service.dart"
   },
   "type": {
     "url": {
       "class": "Identifier",
       "name": "url",
-      "moduleUrl": "asset:dart2js_playground/lib/compile_service/compile_service.dart",
+      "moduleUrl": "asset:dart2js_playground/lib/src/compile_service.dart",
       "prefix": null,
       "value": null
     },
-    "userCodeMarker": {
+    "userCodeStartMarker": {
       "class": "Identifier",
-      "name": "userCodeMarker",
-      "moduleUrl": "asset:dart2js_playground/lib/compile_service/compile_service.dart",
+      "name": "userCodeStartMarker",
+      "moduleUrl": "asset:dart2js_playground/lib/src/compile_service.dart",
+      "prefix": null,
+      "value": null
+    },
+    "userCodeEndMarker": {
+      "class": "Identifier",
+      "name": "userCodeEndMarker",
+      "moduleUrl": "asset:dart2js_playground/lib/src/compile_service.dart",
       "prefix": null,
       "value": null
     },
     "CompileService": {
       "class": "Type",
       "name": "CompileService",
-      "moduleUrl": "asset:dart2js_playground/lib/compile_service/compile_service.dart",
+      "moduleUrl": "asset:dart2js_playground/lib/src/compile_service.dart",
       "prefix": null,
       "isHost": false,
       "value": null,
