@@ -11780,7 +11780,7 @@ r=C.ay
 q=J
 z=3
 return P.V(u.a.cB("POST","https://dart-services.appspot.com/api/dartservices/v1/compile",null,C.ay.mI(P.aa(["source",a])),null),$async$dN,y)
-case 3:x=t.lh(s.H(r.c_(q.qt(c)),"result"))
+case 3:x="// Code shared by all dart2js compilations omitted.\n\n"+t.lh(s.H(r.c_(q.qt(c)),"result"))
 z=1
 break
 case 1:return P.V(x,0,y)
